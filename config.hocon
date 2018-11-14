@@ -1,0 +1,19 @@
+﻿akka {
+	actor {
+		provider = cluster
+       
+	}
+						
+	remote {
+		dot-netty.tcp {
+				hostname = "192.168.0.161"
+				port = 17777
+				maximum-frame-size = 256000b
+		}
+	}		    
+
+	cluster {
+		seed-nodes = ["akka.tcp://akkacommerce@192.168.0.102:4051"] 
+		roles = [tracker]
+	}
+}

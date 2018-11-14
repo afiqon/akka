@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\day2\AkkaCluster\bin\Debug\netcoreapp2.1\AkkaCluster.deps.json
+C:\Users\User\source\repos\day2\AkkaCluster\bin\Debug\netcoreapp2.1\AkkaCluster.runtimeconfig.json
+C:\Users\User\source\repos\day2\AkkaCluster\bin\Debug\netcoreapp2.1\AkkaCluster.runtimeconfig.dev.json
+C:\Users\User\source\repos\day2\AkkaCluster\bin\Debug\netcoreapp2.1\AkkaCluster.dll
+C:\Users\User\source\repos\day2\AkkaCluster\obj\Debug\netcoreapp2.1\AkkaCluster.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\day2\AkkaCluster\obj\Debug\netcoreapp2.1\AkkaCluster.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\day2\AkkaCluster\obj\Debug\netcoreapp2.1\AkkaCluster.AssemblyInfo.cs
+C:\Users\User\source\repos\day2\AkkaCluster\bin\Debug\netcoreapp2.1\AkkaCluster.pdb
+C:\Users\User\source\repos\day2\AkkaCluster\obj\Debug\netcoreapp2.1\AkkaCluster.csprojAssemblyReference.cache
+C:\Users\User\source\repos\day2\AkkaCluster\obj\Debug\netcoreapp2.1\AkkaCluster.dll
+C:\Users\User\source\repos\day2\AkkaCluster\obj\Debug\netcoreapp2.1\AkkaCluster.pdb
+C:\Users\User\source\repos\day2\AkkaCluster\bin\Debug\netcoreapp2.1\config.hocon
+C:\Users\User\source\repos\day2\AkkaCluster\bin\Debug\netcoreapp2.1\AkkaActorShared.dll
+C:\Users\User\source\repos\day2\AkkaCluster\obj\Debug\netcoreapp2.1\AkkaCluster.csproj.CopyComplete
